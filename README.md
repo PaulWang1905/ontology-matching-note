@@ -3,8 +3,8 @@
 ## Ontology Matching Surveys & Reviews
 | Title | Link |  Year | 
 | :---        |    :----:   |    :----:   |
-A survey of exploiting WordNet in ontology matching
-A survey of schema-based matching approaches  
+| A survey of exploiting WordNet in ontology matching | 
+| A survey of schema-based matching approaches  | 
 A Survey on Ontologies and Ontology Alignment Approaches in Healthcare  
 A survey on ontology mapping  
 Background knowledge in ontology matching: A survey  
