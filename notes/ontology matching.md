@@ -10,5 +10,5 @@
 - Explanation of matching result
 - Social and collaborative mathcing
 - Infrastructure and support 
-- - Alignment management
+  - Alignment management
 
